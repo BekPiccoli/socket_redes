@@ -1,0 +1,14 @@
+{
+  "name": "socket-redes",
+  "version": "1.0.0",
+  "main": "client.js",
+  "type": "module",
+  "scripts": {
+    "server": "node --watch server.js",
+    "client": "node --watch client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
